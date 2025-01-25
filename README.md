@@ -46,7 +46,7 @@ The engagement metrics (likes, comments, views) exhibit a wide range, with some 
 ### Correlation Between Engagement Metrics
 The engagement metrics show moderate to strong positive correlations, indicating that posts with high likes tend to also have high comments and views.
 
-![plot](assets/Pasted image 20250125185434.png)
+![plot](assets/assets/Correlation.png)
 
 ### Temporal Trends
 The daily number of posts shows significant fluctuations over time, with a notable peak between March and April
