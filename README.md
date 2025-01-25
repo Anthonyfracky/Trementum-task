@@ -41,21 +41,14 @@ The platform distribution is even, with each platform accounting for 25% of the 
 ### Engagement Metrics Distribution
 The engagement metrics (likes, comments, views) exhibit a wide range, with some posts having significantly higher engagement than others. The majority of posts have relatively low engagement.
 
-![plot](assets/eda_visualization_2.png)
-
 ### Correlation Between Engagement Metrics
 The engagement metrics show moderate to strong positive correlations, indicating that posts with high likes tend to also have high comments and views.
 
-![plot](assets/assets/Correlation.png)
-
 ### Temporal Trends
 The daily number of posts shows significant fluctuations over time, with a notable peak between March and April
-![plot](assets/Pasted image 20250125185904.png)
 
 ### Platform Differences
 While the platform distribution is even, the total engagement (sum of likes, comments, views) varies significantly between platforms, with YouTube having the highest total engagement.
-
-![plot](assets/Pasted image 20250125185500.png)
 
 ## Conclusion and Recommendations
 
